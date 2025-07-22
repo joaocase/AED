@@ -1,2 +1,4 @@
 # AED
-Data Structures &amp; Algorithms' activity, which will serve as the first assessment this semester - Prof. Heldon
+
+Data Structures \& Algorithms' activities, which will serve as the first and second assessments (respectively) this semester - Prof. Heldon
+
